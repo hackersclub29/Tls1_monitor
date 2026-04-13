@@ -18,8 +18,8 @@ Dependencies from `requirements.txt`
 ---
 📦 Installation
 ```powershell
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/hackersclub29/Tls1_monitor.git
+cd Tls1_monitor
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
