@@ -1,0 +1,10 @@
+# Core shared dependencies
+psutil
+pydivert
+
+# CLI dashboard
+rich
+
+# GUI dashboard
+PyQt6
+pyqtgraph
